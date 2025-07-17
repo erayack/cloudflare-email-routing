@@ -11,6 +11,8 @@ A Raycast extension that allows you to create, list, edit, and delete Cloudflare
 - 📋 **Quick Copy**: Copy email addresses to the clipboard.
 - ⚡️ **Alias Pooling**: Pre-allocate a pool of aliases for even faster creation (optional).
 
+Raycast Store Link: https://www.raycast.com/erayack/cloudflare-email-routing
+
 ## Screenshots
 
 ![Onboarding](./metadata/cloudflare-email-routing-1.png)
